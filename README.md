@@ -10,3 +10,4 @@ I want to give a special thanks to Salem to help me out with this n-body project
 [this](https://github.com/DolaPham97/N-body/blob/master/Body.java#L73)
 [drawtrail](https://github.com/DolaPham97/N-body/blob/master/Body.java#128)
 3. Made the adjustment to the coordination of each 5 planets that by chance they can create a spiral spin. In addition, the change also apply on the planet's color, and planet size (4body.tx).
+4. I'm also added the javadoc of the file and the Junit Test.
